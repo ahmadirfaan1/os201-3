@@ -8,4 +8,6 @@ permalink: "/memo/"
 
 This is memo.md
 
+site.baseurl: {{ site.baseurl }}
+site.url: {{ site.url }}
 
