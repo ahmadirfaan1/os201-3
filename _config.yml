@@ -6,3 +6,5 @@ github: "[metadata]"
 baseurl: ""
 url: ""
 
+
+theme: jekyll-theme-hacker
