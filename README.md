@@ -7,4 +7,3 @@ Operating Systems 2020 - 1
 
 - [MEMO](/memo/)
 
-
